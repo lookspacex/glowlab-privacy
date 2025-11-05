@@ -140,19 +140,8 @@ If you wish to exercise any of these rights, please contact us via the email add
 
 ---
 
-## 9. 儿童隐私 / Children’s Privacy
 
-Glowlab **并非面向 13 岁以下儿童** 的应用。我们不会有意收集 13 岁以下儿童的个人信息。
-
-Glowlab is **not intended for children under 13**. We do not knowingly collect personal information from children under 13.
-
-如您认为我们在不知情的情况下收集了 13 岁以下儿童的相关信息，请尽快与我们联系，我们会在合理时间内予以删除。
-
-If you believe that we have unintentionally collected information from a child under 13, please contact us as soon as possible, and we will delete such information within a reasonable period.
-
----
-
-## 10. 本隐私政策的更新 / Changes to This Policy
+## 9. 本隐私政策的更新 / Changes to This Policy
 
 我们可能会不时更新本隐私政策。当我们进行更新时，会在页面顶部修改「最后更新日期」。
 
@@ -164,7 +153,7 @@ For material changes, we may also provide additional notice within the App (such
 
 ---
 
-## 11. 联系我们 / Contact Us
+## 10. 联系我们 / Contact Us
 
 如您对本隐私政策或数据处理有任何疑问、意见或请求，欢迎通过以下方式与我们联系：
 
