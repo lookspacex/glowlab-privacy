@@ -170,4 +170,4 @@ For material changes, we may also provide additional notice within the App (such
 
 If you have any questions, comments, or requests regarding this privacy policy or our data practices, please contact us at:
 
-**Email / 邮箱：** your-email@example.com
+**Email / 邮箱：** weijiafei822@gmail.com
